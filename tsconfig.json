@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "compiled",
+        "declaration": true,
+        "target": "ES2020",
+        "module": "CommonJS",
+        "skipLibCheck": true,
+        "strict": true
+    },
+    "files": [ "src/index.ts" ]
+}
